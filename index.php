@@ -4,6 +4,6 @@
     </head>
     <body>
         <?php echo "Hello Jenkins" ?> <br /><br />
-        <?php echo "How are You Jenkins" ?>
+        <?php echo "How are You Jenkins" ?> <br /> <br />
     </body>
 </html>
